@@ -59,6 +59,8 @@ This initiative facilitates online appointment requests for clients seeking to b
 
 ## Screenshots
 
+![](https://github.com/Ochiengjeck/appointment/blob/main/screenshots/appointment.jpeg)
+
 # The Project was developed using the following:
 
 Apache Version: 	`2.4.39`
