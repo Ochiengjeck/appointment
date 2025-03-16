@@ -53,7 +53,7 @@ This initiative facilitates online appointment requests for clients or clients o
 3. Copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.
 4. Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 5. Create a new database naming `appointment`.
-6. Import the provided SQL file. The file is known as DATABASE appointment.sql located inside the source code root folder.
+6. Import the provided SQL file. The file is known as SQL_Database.sql located inside the source code root folder.
 7. Browse the lecturer's Appointment Systsem in a browser. i.e. http://localhost/appointment/.
 
 
